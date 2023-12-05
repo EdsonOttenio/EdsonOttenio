@@ -17,7 +17,7 @@
 </div> 
 ##
 
-I[Snake animation](https://github.com/edsonottenio/edsonottenio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/edsonottenio/edsonottenio/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
