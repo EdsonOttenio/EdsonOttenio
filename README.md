@@ -17,7 +17,9 @@
 </div> 
 
 
-![Snake animation](https://github.com/edsonottenio/edsonottenio/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 <!---
