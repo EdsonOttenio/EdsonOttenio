@@ -15,7 +15,7 @@
   <a href = "mailto:edsonotenio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edson-c-c-otenio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
-I[Snake animation] (https://github.com/rafaballerini/edsonottenio/blob/output/github-contribution-grid-snake.svg)
+I[Snake animation] (https://github.com/edsonottenio/edsonottenio/blob/output/github-contribution-grid-snake.svg)
 https://github.com/edsonottenio/edsonottenio/blob/output/github-contribution-grid-snake.svg
 
 <!---
